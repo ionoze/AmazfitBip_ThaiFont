@@ -1,0 +1,1 @@
+# AmazfitBip_ThaiFont
