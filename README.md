@@ -1,4 +1,4 @@
-# AmazfitBip_ThaiFont
+# AmazfitBip_ThaiFont ฟอนต์ไทยสำหรับข้อความแจ้งเตือน(แสดงผลระดับเดียว)
 
 link ref : 
 *  https://forum.gizchina.it/index.php?/topic/1424-amazfit-bip-latin-alphabet-with-graphic-accent/&tab=comments#comment-8141
