@@ -16,7 +16,7 @@ install font :
 
 * install MiFit and Sync. with Amazfit Bip
 * update lastest firmware
-*install gadgetbridge (install from F-droid) : 
+* install gadgetbridge (install from F-droid) : 
 * upload font "Mili_chaohu_uni.ft" to your phone
 * use File Manager Open file Mili_chaohu_uni.ft
 * choose "FW/App installer" option
